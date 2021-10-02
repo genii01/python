@@ -1,7 +1,4 @@
-class Book:
-    def __init__(self, title, price):
-        self.title = title
-        self.price = price 
-
-mybook = Book("파이썬을 이용한 비트코인 자동매매", 27000)
-print(mybook.title, mybook.price)
+test1= {"메로나": 500, "구구콘": 1000}
+test2 = dict(메로나=500, 구구콘=1000)
+test3 = dict([("메로나", 500), ("구구콘", 1000)])
+print(test1['메로나'])
