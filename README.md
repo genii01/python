@@ -1,3 +1,3 @@
 # python
-* [X]
-* [ ]
+* [X] complete
+* [ ] not complete
